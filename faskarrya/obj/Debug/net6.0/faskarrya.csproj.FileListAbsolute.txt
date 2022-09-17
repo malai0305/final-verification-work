@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Документы\final verification work\faskarrya\bin\Debug\net6.0\faskarrya.exe
+C:\Users\Артем\OneDrive\Документы\final verification work\faskarrya\bin\Debug\net6.0\faskarrya.deps.json
+C:\Users\Артем\OneDrive\Документы\final verification work\faskarrya\bin\Debug\net6.0\faskarrya.runtimeconfig.json
+C:\Users\Артем\OneDrive\Документы\final verification work\faskarrya\bin\Debug\net6.0\faskarrya.dll
+C:\Users\Артем\OneDrive\Документы\final verification work\faskarrya\bin\Debug\net6.0\faskarrya.pdb
+C:\Users\Артем\OneDrive\Документы\final verification work\faskarrya\obj\Debug\net6.0\faskarrya.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Документы\final verification work\faskarrya\obj\Debug\net6.0\faskarrya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Документы\final verification work\faskarrya\obj\Debug\net6.0\faskarrya.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Документы\final verification work\faskarrya\obj\Debug\net6.0\faskarrya.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Документы\final verification work\faskarrya\obj\Debug\net6.0\faskarrya.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Документы\final verification work\faskarrya\obj\Debug\net6.0\faskarrya.dll
+C:\Users\Артем\OneDrive\Документы\final verification work\faskarrya\obj\Debug\net6.0\refint\faskarrya.dll
+C:\Users\Артем\OneDrive\Документы\final verification work\faskarrya\obj\Debug\net6.0\faskarrya.pdb
+C:\Users\Артем\OneDrive\Документы\final verification work\faskarrya\obj\Debug\net6.0\faskarrya.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Документы\final verification work\faskarrya\obj\Debug\net6.0\ref\faskarrya.dll
